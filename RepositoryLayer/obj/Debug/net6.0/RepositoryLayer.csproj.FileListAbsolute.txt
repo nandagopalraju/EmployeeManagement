@@ -1,0 +1,17 @@
+D:\2.Projects\EmployeeManagement\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\2.Projects\EmployeeManagement\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+D:\2.Projects\EmployeeManagement\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\2.Projects\EmployeeManagement\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\2.Projects\EmployeeManagement\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\2.Projects\EmployeeManagement\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+D:\2.Projects\EmployeeManagement\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll

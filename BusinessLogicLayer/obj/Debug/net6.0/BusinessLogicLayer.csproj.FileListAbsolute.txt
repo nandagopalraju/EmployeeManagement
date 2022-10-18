@@ -1,0 +1,17 @@
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.deps.json
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.dll
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\bin\Debug\net6.0\BusinessLogicLayer.pdb
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.csproj.CopyComplete
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.dll
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\refint\BusinessLogicLayer.dll
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\BusinessLogicLayer.pdb
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\obj\Debug\net6.0\ref\BusinessLogicLayer.dll
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\2.Projects\EmployeeManagement\BusinessLogicLayer\bin\Debug\net6.0\RepositoryLayer.pdb
